@@ -1,0 +1,17 @@
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\bin\Debug\QL bar.exe.config
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\bin\Debug\QL bar.exe
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\bin\Debug\QL bar.pdb
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL_bar.frmBaocao.resources
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL_bar.frmHethong.resources
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL_bar.frmKH.resources
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL_bar.frmLogin.resources
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL_bar.frmQLKho.resources
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL_bar.frmQLNV.resources
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL_bar.Properties.Resources.resources
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL_bar.frmquenmk.resources
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL bar.csproj.GenerateResource.cache
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL bar.csproj.CoreCompileInputs.cache
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL bar.exe
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL bar.pdb
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL_bar.frmDV.resources
+D:\Bao cao chuyen de khoa(CNTT)\Công nghê phân mêm\Thiết kế giao diện\QL bar\QL bar\obj\Debug\QL bar.csproj.AssemblyReference.cache
